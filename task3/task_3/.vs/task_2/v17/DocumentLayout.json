@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanm\\source\\repos\\task_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\school.infrastructure\\course repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:school.infrastructure\\course repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\school.infrastructure\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:school.infrastructure\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\school.infrastructure\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:school.infrastructure\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\school.domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:school.domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\task_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:task_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|c:\\users\\juanm\\source\\repos\\task_2\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FD35C2-8F58-4079-871A-264780397482}|task_2.csproj|solutionrelative:dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\School.Infrastructure\\Course repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "School.Infrastructure\\Course repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\School.Infrastructure\\Course repository\\CourseRepository.cs",
+              "RelativeToolTip": "School.Infrastructure\\Course repository\\CourseRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:16:26.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\School.Infrastructure\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "School.Infrastructure\\Interfaces\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\School.Infrastructure\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "School.Infrastructure\\Interfaces\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:15:52.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\School.Infrastructure\\Context\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "School.Infrastructure\\Context\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\School.Infrastructure\\Context\\SchoolContext.cs",
+              "RelativeToolTip": "School.Infrastructure\\Context\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:15:11.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:13:02.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Entities\\Department.cs",
+              "RelativeToolTip": "Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:12:54.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:12:45.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Core\\Person.cs",
+              "RelativeDocumentMoniker": "Core\\Person.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Core\\Person.cs",
+              "RelativeToolTip": "Core\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:11:14.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:10:58.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "task_2",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\task_2.csproj",
+              "RelativeDocumentMoniker": "task_2.csproj",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\task_2.csproj",
+              "RelativeToolTip": "task_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T15:56:54.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "School.domain.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\School.domain.cs",
+              "RelativeDocumentMoniker": "School.domain.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\School.domain.cs",
+              "RelativeToolTip": "School.domain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T15:57:21.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:48:24.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-15T03:48:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:46:02.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:46:17.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:46:30.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\task_2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\task_2\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T03:45:41.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
